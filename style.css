@@ -98,3 +98,8 @@ li a{
         cursor: pointer;
     }
 }
+
+.navbar.scrolled {
+    background-color:#2f3e46;
+    transition: background 200ms;
+}
