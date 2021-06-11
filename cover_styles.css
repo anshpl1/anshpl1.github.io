@@ -25,6 +25,9 @@
 #navLinks a{
     color: rgb(226, 226, 226);
 }
+#navLinks a:hover{
+    color:grey;
+}
 
 @media (max-width:766px){
     #navLinks a{
