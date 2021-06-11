@@ -1,0 +1,21 @@
+body {
+    background-color: #f5d9df;
+    font-family: "Nunito", sans-serif;
+
+}
+
+h1{
+    color: #ea1c2c;
+    text-align: center;
+    font-size: 50px;
+}
+.panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.one img{
+    width: 50%;
+    height: 50%;
+}
